@@ -32,7 +32,7 @@ public class SamplePart {
 		label.setText("Sample table");
 
 		tableViewer = new TableViewer(parent);
-		tableViewer.add("Sample item 1");
+		tableViewer.add("Sample develop item 1");
 		tableViewer.add("Sample item 2");
 		tableViewer.add("Sample item 3");
 		tableViewer.add("Sample item 4");
