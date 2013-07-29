@@ -33,7 +33,7 @@ public class SamplePart {
 
 		tableViewer = new TableViewer(parent);
 		tableViewer.add("Sample develop item 1");
-		tableViewer.add("Sample item 2");
+		tableViewer.add("Sample master item 2");
 		tableViewer.add("Sample item 3");
 		tableViewer.add("Sample item 4");
 		tableViewer.add("Sample item 5");
